@@ -14,4 +14,4 @@ Marketplace app built with the Flutter framework
 ## App screenshots
 
 ![imageone](./screens/screen1.png)
-![imageone](./screens/screen2.png)
+![imagetwo](./screens/screen2.png)
