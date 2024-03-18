@@ -84,7 +84,7 @@ class BottomNavigation extends StatelessWidget {
           ),
         )
             .animate(
-              delay: 8.seconds,
+              delay: 6.5.seconds,
               // autoPlay: autoPlay.value,
               // onComplete: (controller) {
               //   autoPlay.value = false;

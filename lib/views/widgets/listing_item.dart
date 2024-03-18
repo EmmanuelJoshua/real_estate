@@ -89,7 +89,7 @@ class ListingItem extends StatelessWidget {
             ),
           )
               .animate(
-                delay: 6.9.seconds,
+                delay: 4.8.seconds,
               )
               .scaleX(
                 alignment: Alignment.centerLeft,

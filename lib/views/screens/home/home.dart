@@ -270,7 +270,7 @@ class HomeScreen extends StatelessWidget {
                   ),
                 )
                     .animate(
-                      delay: 5.7.seconds,
+                      delay: 4.5.seconds,
                     )
                     .slideY(
                       duration: 800.ms,
