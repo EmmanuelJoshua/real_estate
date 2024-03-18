@@ -34,12 +34,6 @@ class ListingItem extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.end,
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          // Animate().custom(
-          //   begin: 50,
-          //   end: double.infinity,
-          //   delay: 6.9.seconds,
-          //   duration: 2.5.seconds,
-          //   builder: (_, value, __) {
           Padding(
             padding: const EdgeInsets.symmetric(
               horizontal: 20,
@@ -101,7 +95,7 @@ class ListingItem extends StatelessWidget {
                 alignment: Alignment.centerLeft,
                 begin: 0,
                 end: 1,
-                duration: 700.ms,
+                duration: 500.ms,
               ),
         ],
       ),
